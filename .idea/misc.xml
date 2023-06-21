@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/drawable/cornenerd_button.xml" value="0.1395" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/drawable/cornered_button.xml" value="0.1395" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/drawable/edit_text_background.xml" value="0.1395" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_account_mangment.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_main.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_main_activity.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_sign_up.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Medo_Elesely55/AndroidStudioProjects/BankSystem/app/src/main/res/layout/activity_user_data.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
